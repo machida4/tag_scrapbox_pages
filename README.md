@@ -5,7 +5,7 @@ ExportしたScrapboxのページにタグ付けするスクリプト
 ## Description
 Scrapboxにはプロジェクト全体をJSONフォーマットで出力するExport Pages(`Settings > Page Data > Export Pages`)という機能があります
 
-スクリプトを起動すると、Export Pages機能によって出力したプロジェクトの、指定した名前のリンクまたはハッシュタグのないページに、その名前のハッシュタグを付けます。
+スクリプトを起動すると、Export Pages機能によって出力したプロジェクトの、指定した名前のリンクまたはハッシュタグのないページにハッシュタグを付けてまわります。
 
 もう使っていないScrapboxプロジェクトを別のScrapboxプロジェクトにマージする際に使えるかもしれません。
 
